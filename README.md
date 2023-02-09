@@ -6,4 +6,4 @@
 ## running
 
 - `npm start` to run the project
-- please see check terminal to see the result
+- please check the terminal to see the result
